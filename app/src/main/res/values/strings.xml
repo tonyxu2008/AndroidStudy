@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Tony</string>
+    <string name="button_send">Send</string>
+    <string name="button_cancle">取消</string>
+    <string name="edit_message">请输入你要执行的命令</string>
+    <string name="action_search">Search搜索</string>
+    <string name="action_settings">Settings设置</string>
+    <string name="action_chat">Chat聊天</string>
+    <string name="action_quit">Quit退出</string>
+    <string name="title_activity_display_message">My Message我的消息</string>
+</resources>
